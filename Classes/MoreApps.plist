@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>Icon_sp.png</string>
+		<key>text</key>
+		<string>Sid Player</string>
+		<key>description</key>
+		<string>C64 sound player w/ playlist, download all, offline mode and many settings.</string>
+		<key>url</key>
+		<string>http://itunes.com/apps/sidplayer</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>icon_spfree.png</string>
+		<key>text</key>
+		<string>Sid Player Free</string>
+		<key>description</key>
+		<string>Free C64 sound player w/ complete HVSC collection.</string>
+		<key>url</key>
+		<string>http://itunes.com/apps/sidplayerfree</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Icon_spp.png</string>
+		<key>text</key>
+		<string>Sid Player Pro</string>
+		<key>description</key>
+		<string>Next generation C64 sound player w/ playlists, remixer, and oscillator.</string>
+		<key>url</key>
+		<string>http://itunes.com/apps/sidplayerpro</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Icon_mod.png</string>
+		<key>text</key>
+		<string>Module Player</string>
+		<key>description</key>
+		<string>Amiga Module Format Player w/ playlists, sound effects, and oscillator.</string>
+		<key>url</key>
+		<string>http://itunes.com/apps/moduleplayer</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Icon_modLite.png</string>
+		<key>text</key>
+		<string>Module Player Lite</string>
+		<key>description</key>
+		<string>Free edition of the Amiga Module Player.</string>
+		<key>url</key>
+		<string>http://itunes.com/apps/moduleplayerlite</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>Icon_asma.png</string>
+		<key>text</key>
+		<string>Pokey Player</string>
+		<key>description</key>
+		<string>Atari 800XL Sound Player w/ playlists, sound effects, and oscillator.</string>
+		<key>url</key>
+		<string>http://itunes.com/apps/pokeyplayer</string>
+	</dict>
+</array>
+</plist>

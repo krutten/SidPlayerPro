@@ -1,0 +1,83 @@
+"Erase dialog text" = "Zwischenspeicher löschen?";
+"Erase button not" = "Abbrechen";
+"Erase button yes" = "Wirklich löschen";
+
+"Erase songs text" = "Liste abgespielter Titel löschen?";
+"Erase songs not" = "Abbrechen";
+"Erase songs yes" = "Liste löschen";
+
+"Now Playing" = "Aktuelles Lied";
+
+"File not found" = "Die Datei wurde nicht gefunden!";
+"Playback not possible" = "Die Datei kann nicht abgespielt werden!";
+"Song too complex" = "Dieser Titel ist zu komplex, um auf diesem Gerät abgespielt zu werden!";
+
+"download hvsc start" = "Wirklich die gesamte \"High Voltage Sid Collection\" (270 MB) herunterladen?";
+"download hvsc stop" = "Herunterladen wirklich abbrechen?";
+"download hvsc start yes" = "HVSC herunterladen";
+"download hvsc stop yes" = "Herunterladen abbrechen";
+"download hvsc no" = "Nein";
+"download hvsc no wifi" = "Diese Funktion benötigt eine Internetverbindung über WiFi!";
+
+"No Songs found" = "Zwischenspeicher ist leer!";
+
+"settings section player settings" = "Klangeinstellungen";
+"settings section general settings" = "Allgemeine Einstellungen";
+"settings section informations" = "Informationen";
+
+"settings HVSC notice" = "HVSC FAQ";
+"settings license" = "Lizenz";
+"settings Erase Download Cache" = "Zwischenspeicher löschen";
+"settings Erase Played Songs" = "Liste abgespielter Lieder löschen";
+"settings default songlength" = "Standard-Titellänge (Sek.)";
+"settings offline mode" = "Offline-Modus";
+"settings NTSC" = "NTSC";
+"settings SID" = "SID-Modell";
+"settings performance" = "Performanztest";
+"settings oscillator" = "Visualisierung";
+"settings automatic play next" = "Automatisch weiter";
+"settings automatic pause" = "Automatisch pause";
+"settings override songlength" = "Titellänge anpassen";
+"settings more" = "Mehr Apps";
+"settings about" = "Info";
+
+// all playlists
+"playlist command shuffle" = "Zufälliges Mischen";
+
+// modifyable playlists
+"Playlist Favorites" = "Favoriten";
+// fixed playlists
+"Playlist Top50" = "Top 50";
+"Playlist Random" = "Zufällig";
+"Playlist Top100" = "HVSC 100";
+"Playlist Top64" = "Skytopia Top Games";
+"doubleTap" = "Doppelt auf einem Lied tippen, um alles vom Autor zu sehen.";
+
+// about screen
+"about credits" = "
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\">
+<html><head><title>background-color</title>
+<style type=\"text/css\">
+body { background-color:#000000; color:#FFFFFF; font-weight:bold; font-family:Arial; font-size:200%; }
+</style>
+</head><body><center>
+<p>
+Programming:<br />
+Michael Lauer & Kai Teuber
+</p>
+<p>
+Graphics:<br />
+Antonio Jose, Brainmelt
+</p>
+<p>
+Testers:<br />
+Denis Seibel, Roman Wagner, Marco De Benedittis, Martin Leissler, Reza Anvari, Markus Muckermann, Brian Juul Nielsen
+</p>
+<p>
+Special Thanks:<br />
+Sabine Lauer, Claudia Neumann, Andreas Varga, Rainer Sinsch, Martin Leissler, Michael Herber, Antonio Mcconnell, Peter Zimmer, Brendan Gunn, Alvaro
+</p>
+All our customers and Users!<br />
+The C64 R&D Team!
+</center></body></html>
+";

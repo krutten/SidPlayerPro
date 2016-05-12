@@ -1,0 +1,22 @@
+CREATE TABLE Songs (ID INTEGER PRIMARY KEY, Name TEXT, URI TEXT, Cached BOOL, Duration INTEGER);
+
+INSERT INTO Songs (Name, URI) VALUES ('Test2', 'http://', FALSE, 180);
+
+
+// Update der Daten
+UPDATE Songs (Cached) VALUES(TRUE) WHERE ID = 1 
+
+ auswählen
+SELECT * FROM Songs WHERE Nanme = 'Commando';
+
+//Welche Songs in der Playlist 1 enthalten sind:
+SELECT a.FK_Songs, a.FK_Playlists, b.ID, b.Name
+FROM   Songs b JOIN SongsInPlaylists a
+       ON b.ID = a.FK_Songs
+WHERE a.FK_Playlists = 1
+
+// Songsuche mit Like die auch den Auther ermittelt
+SELECT a.Name, b.Name FROM Songs AS a
+JOIN Authors AS b
+ON a.fkAuthor = b.ID
+ WHERE a.Name LIKE '%Appl%'

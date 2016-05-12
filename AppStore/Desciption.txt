@@ -1,0 +1,61 @@
+-- DE --
+
+*** Spezielle Sid Player Version mit bessere Leistung und zusätzlichen Funktionen ***
+
+SidPlayer Pro bringt Dir die Musik des Commodore C64 auf Dein iPhone und den iPod Touch. Höre Spieleklassiker wie 'Commando', 'Arkanoid', 'The last V8' oder lausche zur Musik von 'Rob Hubbard', 'Martin Galway' und vielen Anderen.
+
+Mit dem eingebauten 3-Kanal Mixer kannst Du Deinen eigenen Remix erstellen. Ein Oszilloskop visualisiert Deine Sound Anpassungen sofort.
+
+SidPlayer Pro gibt Dir direkten Zugriff auf die High Voltage Sid Collection (HVSC) mit über 35.000 Liedern von 1138 Autoren. Hintergrundinformationen aus der Sid Tunes Information List (STIL) können angezeigt werden, falls verfügbar.
+
+Dank der außergewöhnlichen Klangästhetik hat sich Sid-Musik mittlerweile zu einer eigenen Kunstform entwickelt und es kommen ständig neue Kreationen hinzu.
+
+Sid-Musiken sind nur wenige Kilobyte groß, somit kannst Du auch unterwegs über EDGE oder UMTS stundenlang C64-Musik hören. Mit der Suchfunktion kannst Du Deine Favoriten direkt anwählen. Du kannst diese in eine ausgewählte Playlist hinzufügen oder aus verschiedenen vorkonfigurierten Playlists wählen.
+
+
+Keywords: C64,Sid,HVSC,High Voltage Sid Collection,Game Music,Retro,Emulator,Hubbard,Galway
+
+-- EN --
+
+*** Special SidPlayer version with improved performance and additional features ***
+
+SidPlayer Pro brings you the sound of the Commodore C64 to your iPhone and the iPod Touch. Enjoy game classics such as 'Commando', 'Arkanoid', 'The last V8' or listen to the music of 'Rob Hubbard', 'Martin Galway', and many others.
+
+Remix the famous tracks by using the built-in three channel audio mixer. A beautiful scope allows you to visualize your sound shapings.
+
+SidPlayer Pro gives you access to the High Voltage Sid Collection (HVSC) consisting of over 35.000 songs from 1138 authors. Background information from the Sid Tune Information List (STIL) can be accessed, where available.
+
+Thanks to the unique sound aesthetics, Sid music is now considered an art of its own and there's a constant flow of new creations.
+
+A Sid file occupies only few kbytes, thus you can quickly download C64 music via EDGE or UMTS and listen for hours. The search function enables you to find your favourites in a blink. You can add these into a dedicated playlist or chose from severeal preconfigured playlists.
+
+Keywords: C64,Sid,HVSC,High Voltage Sid Collection,Game Music,Retro,Emulator,Hubbard,Galway
+
+-- IT --
+
+*** Versione speciale con una migliore efficienza ed nuovi features ***
+
+Sid Player ti porta le musiche del Commodore 64 sul tuo iPhone e ipod Touch. Ascolta le grandi musiche come 'Commando', 'Arkanoid', 'The last V8' oppure 'Rob Hubbard', 'Martin Galway' ed altri.
+
+Utilizza il nuovo mixer Audio a tre canali, per modificare e visualizzare la musica attuale.
+
+Sid Player è collegato con la (The) High Voltage Sid Collection (HVSC) dove si trovano più di 35.000 titoli di 1138 compositori. Informazioni sui titoli possono essere richiamate dalla Sid Tune Information List (STIL).
+
+Il SID 6581 del C64 ha ispirato molti compositori nella creazione di capolavori musicali che non hanno perso niente del loro splendore dopo oltre 20 anni. Fino ad oggi si trovano nuove creazioni, cercando di mantenere vive le melodie C64.
+
+Le musiche SID risultano sempre piccole nel formato che richiede pochi kbytes. Così puoi scaricare velocemente le musiche C64 anche via rete cellulare (EDGE/UMTS), ed ascoltarli per ore e ore. Con la ricerca puoi scegliere direttamente i tuoi favoriti ed memorizzarli in una playlist personale, oppure scegli tra playlist già predefiniti.
+
+
+Keywords: C64,Sid,HVSC,High Voltage Sid Collection,Game Music,Retro,Emulator,Hubbard,Galway
+
+-- FR --
+
+*** Version spéciale du Sid Player avec performance ameliorée et de nouvaux caractéristiques ***
+
+Sid Player t'offre le son du commodore C64 sur ton iPhone et sur l'iPod Touch. Amuse-toi avec des classiques comme "Commando", "Arkanoid", "The last V8" ou écoute les musiques de "Rob Hubbard", de "Martin Galway" et de beaucoup d'autres.
+
+Remixe les titres fameux en utilisant le mixeur trois canaux. Un bel oscilloscope te permet de visualiser le son.
+
+Sid Player te donne un accès direct à la "High Voltage Sid Collection" (HVSC) avec plus de 35.000 titres de 1138 compositeurs. Grâce à l'esthétique de son son unique, la musique de Sid est maintenant considérée comme une forme d'art autonome et de nouvelles créations apparaissent constamment.
+
+Un fichier Sid n'occupant que quelques kilo bits, tu peux le télécharger rapidement par EDGE ou UMTS et écouter pendant des heures la musique du C64. La fonction de recherche te permet également de trouver tes favoris en un clic.

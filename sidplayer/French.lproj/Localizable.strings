@@ -1,0 +1,83 @@
+"Erase dialog text" = "Êtes-vous sure de vouloir effacer les téléchargés?";
+"Erase button not" = "Abandonner";
+"Erase button yes" = "Effacer";
+
+"Erase songs text" = "Êtes-vous sure de vouloir effacer la liste des titres joués?";
+"Erase songs not" = "Abandonner";
+"Erase songs yes" = "Effacer";
+
+"Now Playing" = "En train de jouer";
+
+"File not found" = "Fichier pas trouvé!";
+"Playback not possible" = "Pas possible de jouer ce titre!";
+"Song too complex" = "Ce titre est trop complexe pour etre joué!";
+
+"download hvsc start" = "Êtes-vous sure de vouloir télécharger complètement la \"High Voltage Sid Collection\"? (270 MB)";
+"download hvsc stop" = "Êtes-vous sure de vouloir terminer le téléchargement?";
+"download hvsc start yes" = "Télécharger HVSC";
+"download hvsc stop yes" = "Terminer le téléchargement";
+"download hvsc no" = "Abandonner";
+"download hvsc no wifi" = "Afin d'utiliser cette fonction il faut avoir une connexion internet wifi!";
+
+"No Songs found" = "Aucun titre trouvé!";
+
+"settings section player settings" = "Réglages de timbre";
+"settings section general settings" = "Réglages généraux";
+"settings section informations" = "Informations";
+
+"settings HVSC notice" = "Note HVSC";
+"settings license" = "License";
+"settings Erase Download Cache" = "Effacer les téléchargés";
+"settings Erase Played Songs" = "Effacer les titres joués";
+"settings default songlength" = "Durée standard (secondes)";
+"settings offline mode" = "Mode non connecté";
+"settings NTSC" = "NTSC";
+"settings SID" = "Modèle de SID";
+"settings performance" = "Test de performance";
+"settings automatic play next" = "Passer au titre suivant";
+"settings automatic pause" = "Autom. Pause";
+"settings override songlength" = "Remplacer la durée";
+"settings more" = "Plus des rétro sonores";
+"settings about" = "Info";
+
+// all playlists
+"playlist command shuffle" = "Random mix";
+
+// all playlists
+"playlist command shuffle" = "Shuffle Playlist";
+
+// modifyable playlists
+"Playlist Favorites" = "Favoris";
+// fixed playlists
+"Playlist Top50" = "Top 50";
+"Playlist Random" = "Shuffle";
+"Playlist Top100" = "HVSC 100";
+
+// about screen
+"about credits" = "
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01//EN\">
+<html><head><title>background-color</title>
+<style type=\"text/css\">
+body { background-color:#000000; color:#FFFFFF; font-weight:bold; font-family:Arial; font-size:200%; }
+</style>
+</head><body><center>
+<p>
+Programming:<br />
+Michael Lauer & Kai Teuber
+</p>
+<p>
+Graphics:<br />
+Antonio Jose, Brainmelt
+</p>
+<p>
+Testers:<br />
+Denis Seibel, Roman Wagner, Marco De Benedittis, Martin Leissler
+</p>
+<p>
+Special Thanks:<br />
+Sabine Lauer, Claudia Neumann, Andreas Varga, Rainer Sinsch, Martin Leissler, Michael Herber, Antonio Mcconnell, Peter Zimmer, Brendan Gunn, Alvaro
+</p>
+All our customers and Users!<br />
+The C64 R&D Team!
+</center></body></html>
+";
